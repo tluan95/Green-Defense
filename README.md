@@ -7,6 +7,6 @@ Intsall python: https://www.python.org/downloads/
 
 Install pygame: https://www.pygame.org/wiki/GettingStarted
 
-Clone the Repo and start the game from main page. 
+Clone the Repo and start the game from mainPage.py. 
 
 by Teddo_code
