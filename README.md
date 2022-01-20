@@ -1,5 +1,5 @@
 ﻿# Green-Defense
- ![](img/greeen%20defense.png)
+<img src ="img/GreenDefense.jpg" width="5000" height= "400">
  
 Pygame project aims to improve child awareness of environmental pollution.
 
