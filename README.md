@@ -1,5 +1,5 @@
 ﻿# Green-Defense
- ![](images/https://github.com/tluan95/Green-Defense/blob/main/img/greeen%20defense.png)
+ ![](img/greeen%20defense.png)
  
 Pygame project aims to improve child awareness of environmental pollution.
 
